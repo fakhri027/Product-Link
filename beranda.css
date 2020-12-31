@@ -1,0 +1,109 @@
+html{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1000px;
+  }
+  
+  .topnav {
+      margin: 0;
+      max-width: 10% auto;
+      max-height: 40px;
+    background-color: rgb(180, 23, 23);
+    float: right;
+  }
+  
+  .topnav a {
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px;
+    font-size: 17px;
+  }
+
+  .judul{
+      padding-top: 100px;
+      background-color: rgb(255, 255, 255);
+      width: 1360px;
+      
+  }
+
+  .container1{
+      background-color: rgb(180, 169, 169);
+      width: 1300px;
+      height: 200px;
+      margin: 20px;
+      border: 1px solid #0e0d0d;
+      display: flex;
+  }
+
+  .gambar1{
+      flex: 1;
+      order:1;
+      padding: 10px;
+  }
+  
+  .deskripsi1{
+      background-color: white;
+      order: 2;
+      margin: 10px;
+  }
+  .deskripsi1 p{
+      padding: 10px;
+      font-size: 12px;
+  }
+
+  .container2{
+    background-color: rgb(180, 169, 169);
+    width: 1300px;
+    height: 200px;
+    margin: 20px;
+    border: 1px solid #0e0d0d;
+    display: flex;
+}
+
+.gambar2{
+    flex: 1;
+    order:1;
+    padding: 10px;
+}
+
+.deskripsi2{
+    background-color: white;
+    order: 2;
+    margin: 10px;
+}
+.deskripsi2 p{
+    padding: 10px;
+    font-size: 12px;
+}
+
+.container3{
+    background-color: rgb(180, 169, 169);
+    width: 1300px;
+    height: 200px;
+    margin: 20px;
+    border: 1px solid #0e0d0d;
+    display: flex;
+}
+
+.gambar3{
+    flex: 1;
+    order:1;
+    padding: 10px;
+}
+
+.deskripsi3{
+    background-color: white;
+    order: 2;
+    margin: 10px;
+}
+.deskripsi3 p{
+    padding: 10px;
+    font-size: 12px;
+}
